@@ -7,7 +7,7 @@ import time
 import Console_arguments_handler
 
 dimension = 5
-frequency = 0
+frequency = 1
 init_position = (0, 0)
 
 
@@ -39,7 +39,6 @@ def new_comb(positions, status, text):
 
 Console_arguments_handler.check_arguments()
 get_arguments()
-print(frequency, dimension)
 
 root = GUI.GUI(dimension=dimension)
 

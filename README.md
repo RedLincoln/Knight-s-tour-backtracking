@@ -4,7 +4,7 @@ A __knight's tour__ is a sequence of moves of a __knight__ on a __chessboard__ s
 
 This program show how the backtracking algorithm work.
 
-<img src="https://github.com/RedLincoln/Knight-s-tour-backtracking/blob/master/animation.gif" width="80" height="80" />
+<img src="https://github.com/RedLincoln/Knight-s-tour-backtracking/blob/master/animation.gif" width="200" height="200" />
 
 ## How to Use
 

@@ -8,7 +8,7 @@ This program show how the backtracking algorithm work.
 
 ## How to Use
 
-on a console
+on a console with __python 3__
 
 ```
 [python] Control.py [-d dimension| -f refresh_frequency | -i x_position y_position]

@@ -54,5 +54,3 @@ for i in iterator:
     time.sleep(7)
 
 print("out of the  loop")
-
-
